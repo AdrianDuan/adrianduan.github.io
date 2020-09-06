@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/about/</loc>
+    <lastmod>2020-09-03T17:46:24+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/</loc>
+    <lastmod>2020-09-03T17:40:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/posts/</loc>
+    <lastmod>2020-09-03T17:40:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/posts/test/</loc>
+    <lastmod>2020-09-03T17:40:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/posts/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/posts/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://adrianduan.github.io/zh-cn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adrianduan.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://adrianduan.github.io/zh-cn/tags/"
+                />
+  </url>
+  
+</urlset>
