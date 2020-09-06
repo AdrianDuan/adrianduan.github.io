@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adrianduan.github.io/en/about/</loc>
+    <loc>https://adrianduan.github.io/about/</loc>
     <lastmod>2020-09-03T17:46:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/about/"
+                href="https://adrianduan.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://adrianduan.github.io/en/</loc>
+    <loc>https://adrianduan.github.io/</loc>
     <lastmod>2020-09-03T17:40:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/"
+                href="https://adrianduan.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://adrianduan.github.io/en/posts/</loc>
+    <loc>https://adrianduan.github.io/posts/</loc>
     <lastmod>2020-09-03T17:40:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -43,12 +43,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/posts/"
+                href="https://adrianduan.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://adrianduan.github.io/en/posts/test/</loc>
+    <loc>https://adrianduan.github.io/posts/test/</loc>
     <lastmod>2020-09-03T17:40:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -58,12 +58,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/posts/test/"
+                href="https://adrianduan.github.io/posts/test/"
                 />
   </url>
   
   <url>
-    <loc>https://adrianduan.github.io/en/categories/</loc>
+    <loc>https://adrianduan.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -72,12 +72,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/categories/"
+                href="https://adrianduan.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://adrianduan.github.io/en/tags/</loc>
+    <loc>https://adrianduan.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -86,7 +86,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adrianduan.github.io/en/tags/"
+                href="https://adrianduan.github.io/tags/"
                 />
   </url>
   
